@@ -1,2 +1,2 @@
 # SQLCipherLib
-Sqlcipher is java binding for supporting xamarin android applications. The current java binding is based on sqlcipher3.5.4.aar. The lib includes a sample which shows the db create statements and its initialization. This is demo on how to consume the java libs using binding.
+SQLCipherLib is java binding library for supporting SQLCipher for xamarin android applications. From an Android N prespective we need to upgrade our .aar files to support 3.5.4. The current java binding is based on sqlcipher3.5.4.aar. The lib includes a sample which shows the db create statements and its initialization. sqlcipher demo shows how to consume the java libs using binding. 
